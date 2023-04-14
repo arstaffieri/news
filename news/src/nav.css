@@ -1,0 +1,45 @@
+.nav-container {
+    background-color: #0b1322;
+    height: 20vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .categories-container {
+    color:#ffffff;
+    font-size: 1.25em;
+    display: flex;
+    flex-direction: column;
+    width: 80vw;
+    align-items: center;
+  }
+  
+  .categories-top {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .categories-bottom {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .nav-link {
+    text-decoration: none;
+    color: #ffff;
+  }
+  
+  .active {
+    color: #45ecac;
+  }
+
+  .title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(82, 107, 249);
+    width: 100vw;
+    font-size: 1.25em;
+  }
+  
