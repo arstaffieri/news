@@ -11,3 +11,5 @@ This is a website that gathers the top stories from the New York Times. It displ
 - Open a terminal session
 - Type `npm start` and a new browser window will open with the project.
 
+#### Technologies
+This project was built in React. With more time, I would add Cypress testing. The NYT API included photos with the article data. With more time, I would incorporate those photos into the design of the website. I would also like to make a layout that looks equally good on a desktop as on a mobile divice. 
